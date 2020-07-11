@@ -31,7 +31,7 @@ The structure of your project will be as follows
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
 │                         created with "conda env export > environment.yml"
 │
-├── run.py.            <- Script for running the full analysis 
+├── run.py             <- Script for running the full analysis 
 │                         
 ├── src                <- Source code for use in this project.
     ├── __init__.py    <- Makes src a Python module

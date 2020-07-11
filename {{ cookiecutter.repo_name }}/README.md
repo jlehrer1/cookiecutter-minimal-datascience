@@ -1,6 +1,6 @@
-{{cookiecutter.project_name}}
+# {{cookiecutter.project_name}}
 
-{{cookiecutter.description}}
+## {{cookiecutter.description}}
 
 To generate the production environment, run
 ```

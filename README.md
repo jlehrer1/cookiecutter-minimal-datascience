@@ -29,8 +29,10 @@ The structure of your project will be as follows
 │                         `1.0-jqp-initial-data-exploration`.
 │
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-│                         generated with `pip freeze > requirements.txt`
+│                         created with "conda env export > environment.yml"
 │
+├── run.py.            <- Script for running the full analysis 
+│                         
 ├── src                <- Source code for use in this project.
     ├── __init__.py    <- Makes src a Python module
     │

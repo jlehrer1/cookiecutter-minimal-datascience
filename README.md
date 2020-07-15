@@ -2,15 +2,12 @@
 
 Similar to the default provided by DrivenData, but simplified for casual project usage. 
 
-To install, run
-```
-pip install cookiecutter
-```
-
-To get started, run
+To use, run
 ```
 cookiecutter https://github.com/jlehrer1/cookiecutter-minimal-datascience
 ```
+
+I highly recommend aliasing the above command.
 
 The structure of your project will be as follows
 ```
